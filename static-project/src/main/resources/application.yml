@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: static-project
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+server:
+  port: 80
